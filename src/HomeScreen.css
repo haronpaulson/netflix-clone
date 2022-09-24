@@ -1,0 +1,32 @@
+.homescreen {
+    background-color: black;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    height: 120px;
+}
+
+.netflix-avatar {
+    
+    height: 50px;
+    position: fixed;
+    right: 30px;
+    top: 30px;
+    
+   
+}
+
+.netflix-logo {
+    object-fit: contain;
+  
+}
+
+.home-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    color: aqua;
+    font-size: 40px;
+  
+}
